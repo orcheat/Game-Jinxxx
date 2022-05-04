@@ -1,2 +1,0 @@
-# SheRun
-Endless runner game
